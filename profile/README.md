@@ -1,8 +1,8 @@
 ## re-Isearch Organization 
 
 
-While the Industry Consensus clamours towards Multi-Gigawatt datacenters, trillion-dollar market caps, and filling massive warehouses—if not actual outer space—with endless arrays of power-hungry GPUs and busy trying to figure out how to nuclear-power a cluster of 100,000 GPUs just to parse human intent and scale at all costs,
-we, by contrast, are looking the exact opposite way. We want to know: how much production-grade retrieval performance can one extract from the bare metal sitting right in front of us, off-the-grid and entirely sovereign?
+While the Industry Consensus clamours towards Multi-Gigawatt datacenters, trillion-dollar market caps, and filling massive warehouses—if not actual outer space—with endless arrays of power-hungry GPUs and are busy trying to figure out how to nuclear-power a cluster of 100,000 GPUs just to parse human intent and scale at all costs,
+we are looking the exact opposite way. We want to know: how much production-grade retrieval performance can one extract from the bare metal sitting right in front of us, off-the-grid and entirely sovereign?
 
 Towards this aim we've released CoreQuarry a high-performance, local-first knowledge retrieval platform that makes advanced AI-powered search accessible on consumer hardware, ensuring complete data and infrastructure sovereignty. It enables organisations to search, explore, and interact with complex collections of documents using a unified combination of keyword search, semantic retrieval, and document structure awareness— completely insulated from foreign legal jurisdiction, cloud lock-in, and the risk of exposing sensitive intellectual property to third-party AI models.
 
