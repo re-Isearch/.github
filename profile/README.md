@@ -16,4 +16,4 @@ In the contemporary landscape of AI infrastructure, there is a pervasive illusio
 
 We reject this paradigm. Instead we build on a simple, contrarian truth: the most effective way to solve the modern localized AI challenge is not to build more abstractions, but to return to high-performance, hardware-sympathetic systems engineering.
 
-
+<IMG SRC="https://github.com/re-Isearch/CoreQuarry/blob/main/logos/CoreQuarryCartoon.png" HEIGHT=600>
